@@ -1,0 +1,13 @@
+.terraform/
+*.backup
+*.hcl
+*.tfvars
+*.tfstate
+*.out
+*.info
+*.pub
+*.key
+azure-key*
+aws-key*
+/00 CREDENCIAIS
+/01 DOCS
